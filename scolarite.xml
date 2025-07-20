@@ -1,0 +1,18 @@
+<data>
+    <etudiants>
+        <etudiant>
+            <idE>1</idE>
+            <name>Allae Eddin</name>
+            <email>allae7@example.com</email>
+            <classe_id>1</classe_id>
+        </etudiant>
+        <etudiant><idE>2</idE><name>Orhan</name><email>orhal@gmail.com</email><classe_id>1</classe_id></etudiant>
+        <etudiant><name>Salma</name><email>sali2@gmail.com</email><classe_id>2</classe_id><idE>3</idE></etudiant>
+    </etudiants>
+    <filieres>
+        <filiere>
+            <idF>1</idF>
+            <nameF>MQL</nameF>
+        </filiere>
+    <filiere><nameF>M2I</nameF><idF>2</idF></filiere></filieres>
+</data>
